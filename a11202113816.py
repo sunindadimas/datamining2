@@ -1,6 +1,3 @@
-# TUGAS DATA MINING : RISKI GUNAWAN 
-# NIM /Kelas : A11.2021.13893 - A11.4610
-# link GITHUB  : https://github.com/RiskiGunawan03/DataMining
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
