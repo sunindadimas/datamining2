@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 dataset = pd.read_csv("Data.csv")
-x = dataset.iloc[:, :-1].values
+x = dataset.iloc[:, -1].values
 y = dataset.iloc[:, -1].values
 
 from sklearn.impute import SimpleImputer
